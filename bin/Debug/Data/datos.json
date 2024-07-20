@@ -1,0 +1,30 @@
+[
+  {
+    "ID": "000-2034-045",
+    "Titular": "Roger Petrov",
+    "Saldo": 1200.5,
+    "Apertura": "2012-03-22T00:00:00",
+    "Activa": true
+  },
+  {
+    "ID": "003-3432-445",
+    "Titular": "Victor Tatamovich",
+    "Saldo": 2340.5,
+    "Apertura": "2011-10-14T00:00:00",
+    "Activa": false
+  },
+  {
+    "ID": "002-3049-115",
+    "Titular": "Yuri Demidovich",
+    "Saldo": 1270.5,
+    "Apertura": "2007-05-10T00:00:00",
+    "Activa": true
+  },
+  {
+    "ID": "030-4394-045",
+    "Titular": "Ana Piskunov",
+    "Saldo": 4021.5,
+    "Apertura": "2010-05-09T00:00:00",
+    "Activa": true
+  }
+]
